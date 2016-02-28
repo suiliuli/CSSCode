@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 330px;
+    height: 330px;
+    margin: 100px auto;
+    padding: 10px;
+    background-color: #91aa90;
+}
+.content{
+    overflow: auto; zoom: 1;
+}
+.content div{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #ac8912;
+    float: left;
+}
